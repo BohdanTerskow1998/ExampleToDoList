@@ -1,0 +1,58 @@
+body {  
+  overflow-y: hidden;
+  color: red;  
+  font-family: 'Raleway';  
+  font-size: 1.6rem;  
+  font-weight: 700;  
+  letter-spacing: 1px;  
+  height: 100vh;  
+  margin: 0;  
+  text-transform: uppercase;  
+}  
+
+.title-h1, form {
+  color: black;
+}
+
+.foot {  
+  position: fixed;  
+  left: 10%;  
+  width: 80%;  
+  text-align: center;  
+}  
+
+h2, h3 {
+  text-align: center;
+}
+
+#form {
+  margin: 20px 0px 0px 0px;
+  width: 400px;
+}
+
+.form {
+  margin-left: 10px;
+}
+
+input[type=email] {
+  margin-bottom: 15px;
+}
+
+input[type=text] {
+  margin-bottom: 15px;
+}
+
+.item {
+  cursor: pointer;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.TodoList {
+  display: none;
+}
+
+
+
